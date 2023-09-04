@@ -1,5 +1,5 @@
 ---
-title: "ARDS Project"
+title: "ARDS Project another test"
 subtitle: "BMIN503/EPID600 Final Project"
 author: "Daniel Balcarcel, MD; PCCM Fellow"
 format: html
